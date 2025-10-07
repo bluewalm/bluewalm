@@ -19,10 +19,10 @@ Welcome to the BLUEWALM GitHub organization! We believe in AI assisted future. W
 
 ## 🌟 Projects
 
-* [Get Started](https://github.com/bluewalm/notebooks_pyt):  The Jupyter notebooks that show how to use our pytorch module. 
-* [DLRM_PYT](https://github.com/bluewalm/dlrm_pyt): An example use-case. A 420GB DLRM model compressed into just 1GB. It requires the full version of our pytorch module. 
-* [NCF_PYT](https://github.com/bluewalm/ncf_pyt): A much smaller example use-case. It was setup to work with the full version of our pytorch module. 
-* [pytorch-embeddings](https://www.bluewalm.com): The python wheel of the free, nerfed version of our pytorch module can be downloaded through our website. 
+* [Get Started](https://github.com/bluewalm/notebooks_pyt):  Jupyter notebooks that show how to use our neural network layers. 
+* [gpt2_pyt](https://github.com/bluewalm/gpt2_pyt): An example use-case. The usage of the softplus attention layer is demonstrated on this ancient relic. 
+* [llama3_pyt](https://github.com/bluewalm/llama3_pyt): An other example use-case. The usage of the softplus attention layer is demonstrated on this more modern LLM. 
+* [memcheck_pyt](https://github.com/bluewalm/memcheck_pyt): The python wheel of the free, nerfed version of our pytorch module can be downloaded through our website. 
 
 
 
