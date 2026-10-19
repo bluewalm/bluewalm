@@ -20,10 +20,6 @@ Welcome to the BLUEWALM GitHub organization! Our goal is to make sure that the s
 ## 🌟 Projects
 
 * [notebooks_pyt](https://github.com/bluewalm/notebooks_pyt):  Jupyter notebooks that show how to use our compressed neural network layers. 
-* [gpt2_pyt](https://github.com/bluewalm/gpt2_pyt): An example use-case. The usage of the softplus attention layer is demonstrated on this ancient relic. 
-* [llama3_pyt](https://github.com/bluewalm/llama3_pyt): An other example use-case. The usage of the softplus attention layer is demonstrated on this more modern LLM. 
-* [memcheck_pyt](https://github.com/bluewalm/memcheck_pyt): Memory benchmarking tools. 
-
 
 
 ## 📫 Contact
